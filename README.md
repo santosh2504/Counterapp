@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+React Counter App is a great way to start understand about defining state variables and how to consume the state variable in the class.
+
+For more details you can go through the code
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![image](https://user-images.githubusercontent.com/13503671/159813072-bc27bc30-22f5-469d-81e2-91da35309001.png)
