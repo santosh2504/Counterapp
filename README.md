@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple React Counter App
 
-React Counter App is a great way to start understand about defining state variables and how to consume the state variable in the class.
+This App is a great way to start understand about defining state variables and how to consume the state variable in the class.
 
 For more details you can go through the code
 
